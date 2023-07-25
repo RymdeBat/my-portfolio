@@ -1,0 +1,17 @@
+.img-align-right {
+    display: -webkit-box;
+    margin-right: auto;
+    height: 300px;
+    
+}
+
+.img-size {
+    height: 80%;
+    width: 50%;
+}
+
+.img-column {
+  float: left;
+  width: 700px;
+  padding: 5px;
+}
